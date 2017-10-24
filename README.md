@@ -1,4 +1,4 @@
-# adapt-contrib-boxmenu  
+# adapt-contrib-vert-boxmenu  
 
 **Box Menu** is a *menu* bundled with the [Adapt framework](https://github.com/adaptlearning/adapt_framework).  
 
